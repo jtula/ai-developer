@@ -13,7 +13,7 @@ Repositorio de automatización de análisis de código legacy, generación de do
 7. [Cloud & DevOps](./07-cloud-y-devops.md)
 8. [Preguntas Trampa y Difíciles](./08-preguntas-trampa.md)
 9. [Proyecto Ejemplo End-to-End](./09-proyecto-ejemplo.md)
-10. [Proyecto Ejemplo AWS Bedrock](./10-proyecto-ejemplo-bedrock.md)
+11. [Deep Dive: Flujo Completo de RAG](./11-flujo-completo-rag.md)
 
 ## Resumen del Rol
 
