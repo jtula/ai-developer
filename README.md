@@ -1,6 +1,6 @@
-# AI Developer Interview Prep - Código Legacy & Arquitectura
+# AI Developer - Código Legacy & Arquitectura
 
-Repositorio de preparación para rol de AI Developer especializado en automatización de análisis de código legacy, generación de documentación y propuestas de arquitectura usando LLMs y agentes (AS-IS y TO-BE).
+Repositorio de automatización de análisis de código legacy, generación de documentación y propuestas de arquitectura usando LLMs y agentes (AS-IS y TO-BE).
 
 ## Índice de Contenidos
 
@@ -16,5 +16,6 @@ Repositorio de preparación para rol de AI Developer especializado en automatiza
 10. [Proyecto Ejemplo AWS Bedrock](./10-proyecto-ejemplo-bedrock.md)
 
 ## Resumen del Rol
+
 - **Objetivo:** Analizar código viejo (AS-IS), documentarlo y proponer nuevas arquitecturas (TO-BE).
 - **Stack principal:** Python, FastAPI, OpenAI/Anthropic, LangGraph, RAG, AST/Tree-sitter.
